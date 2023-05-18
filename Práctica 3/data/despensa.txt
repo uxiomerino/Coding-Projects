@@ -1,0 +1,16 @@
+arroz	500
+leche	1000
+canela en polvo	12
+canela en rama	3
+queso de untar	250
+yemas de huevo	10
+huevos	24
+harina	300
+corteza de limon	6
+azucar	500
+levadura	125
+mermelada	75
+manzana	10
+mantequilla	300
+yogourt	2
+nata	250

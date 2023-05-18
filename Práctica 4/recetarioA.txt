@@ -1,0 +1,29 @@
+leche frita	leche	125
+leche frita	harina	150
+leche frita	azucar	250
+leche frita	yemas de huevo	2
+arroz con leche	leche	125
+arroz con leche	arroz	110
+arroz con leche	canela en rama	1
+arroz con leche	corteza de limon	1
+arroz con leche	azucar	150
+arroz con leche	canela en polvo	1
+tarta de queso	queso de untar	125
+tarta de queso	yogourt	1
+tarta de queso	azucar	125
+tarta de queso	harina	125
+tarta de queso	leche	125
+tarta de queso	nata	125
+tarta de queso	huevos	4
+tarta de queso	levadura	2
+flan con nata	huevos	4
+flan con nata	leche	250
+flan con nata	nata	125
+flan con nata	azucar	50
+flan con nata	corteza de limon	1
+natillas del chef	leche	250
+natillas del chef	yemas de huevo	3
+natillas del chef	azucar	125
+natillas del chef	corteza de limon	1
+natillas del chef	canela en rama	1
+natillas del chef	canela en polvo	25

@@ -1,0 +1,9 @@
+ 1	flan con nata
+ 1	tarta de queso
+ 2	arroz con leche     
+ 2	leche frita         
+ 3	arroz con leche
+ 3	tarta de manzana     
+ 4	arroz con leche
+ 4	tarta de queso
+ 5	tarta de queso

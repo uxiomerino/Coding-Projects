@@ -1,0 +1,14 @@
+arroz con leche	leche	125
+arroz con leche	arroz	110
+arroz con leche	canela en rama	1
+arroz con leche	corteza de limon	1
+arroz con leche	azucar	150
+arroz con leche	canela en polvo	1
+tarta de queso	queso de untar	125
+tarta de queso	yogourt	1
+tarta de queso	azucar	125
+tarta de queso	harina	125
+tarta de queso	leche	125
+tarta de queso	nata	125
+tarta de queso	huevos	4
+tarta de queso	levadura	2

@@ -1,0 +1,99 @@
+Warrior	Warrior0	120	43	1	1	10
+Warrior	Warrior1	115	47	4	3	0
+Warrior	Warrior2	113	37	11	2	5
+Warrior	Warrior3	113	34	5	5	4
+Warrior	Warrior4	124	47	12	3	0
+Warrior	Warrior5	147	35	9	3	0
+Warrior	Warrior6	132	41	6	2	6
+Warrior	Warrior7	117	32	3	1	7
+Warrior	Warrior8	135	36	1	4	7
+Warrior	Warrior9	132	42	10	3	0
+Warrior	Warrior10	146	32	14	4	6
+Warrior	Warrior11	111	40	14	2	1
+Warrior	Warrior12	145	36	13	3	3
+Warrior	Warrior13	124	45	9	5	3
+Warrior	Warrior14	117	37	5	1	5
+Warrior	Warrior15	104	35	10	1	7
+Warrior	Warrior16	136	40	7	4	9
+Warrior	Warrior17	118	49	9	1	0
+Warrior	Warrior18	114	31	15	5	10
+Warrior	Warrior19	106	36	13	5	10
+Warrior	Warrior20	149	33	8	4	0
+Warrior	Warrior21	105	41	4	1	3
+Warrior	Warrior22	114	50	14	3	10
+Warrior	Warrior23	121	32	5	5	0
+Warrior	Warrior24	147	34	12	3	5
+Warrior	Warrior25	130	31	12	2	5
+Warrior	Warrior26	111	35	7	1	6
+Warrior	Warrior27	109	36	14	5	7
+Warrior	Warrior28	141	44	4	3	10
+Warrior	Warrior29	117	47	8	3	8
+Warrior	Warrior30	105	34	4	1	1
+Warrior	Warrior31	144	44	10	3	3
+Warrior	Warrior32	120	47	9	2	0
+Mage	Mage0	95	91	10	0
+Mage	Mage1	91	113	10	0
+Mage	Mage2	106	101	3	6
+Mage	Mage3	110	101	2	5
+Mage	Mage4	112	104	5	2
+Mage	Mage5	106	120	2	2
+Mage	Mage6	115	113	6	1
+Mage	Mage7	122	118	3	6
+Mage	Mage8	103	116	4	6
+Mage	Mage9	113	108	6	6
+Mage	Mage10	109	95	8	4
+Mage	Mage11	87	117	8	5
+Mage	Mage12	89	108	2	4
+Mage	Mage13	88	116	8	0
+Mage	Mage14	117	119	3	3
+Mage	Mage15	127	99	8	6
+Mage	Mage16	113	119	6	2
+Mage	Mage17	101	119	5	6
+Mage	Mage18	122	113	1	3
+Mage	Mage19	109	105	4	2
+Mage	Mage20	124	115	5	3
+Mage	Mage21	128	100	2	0
+Mage	Mage22	106	107	8	3
+Mage	Mage23	97	109	7	3
+Mage	Mage24	105	103	5	2
+Mage	Mage25	105	105	8	3
+Mage	Mage26	116	114	6	3
+Mage	Mage27	126	112	8	0
+Mage	Mage28	118	99	8	5
+Mage	Mage29	111	106	3	4
+Mage	Mage30	112	107	8	2
+Mage	Mage31	126	101	7	5
+Mage	Mage32	90	97	7	0
+Priest	Priest0	73	22	10	0
+Priest	Priest1	67	20	2	2
+Priest	Priest2	67	23	6	4
+Priest	Priest3	79	29	6	0
+Priest	Priest4	79	23	1	1
+Priest	Priest5	62	20	5	3
+Priest	Priest6	66	20	9	4
+Priest	Priest7	62	22	6	2
+Priest	Priest8	76	22	7	2
+Priest	Priest9	61	28	4	1
+Priest	Priest10	62	29	2	2
+Priest	Priest11	74	27	9	0
+Priest	Priest12	74	24	1	1
+Priest	Priest13	73	30	8	4
+Priest	Priest14	75	20	2	4
+Priest	Priest15	74	24	9	1
+Priest	Priest16	70	28	6	2
+Priest	Priest17	60	27	3	2
+Priest	Priest18	79	24	3	4
+Priest	Priest19	78	27	5	3
+Priest	Priest20	64	28	2	1
+Priest	Priest21	65	28	1	2
+Priest	Priest22	68	30	8	2
+Priest	Priest23	69	22	2	4
+Priest	Priest24	79	30	9	2
+Priest	Priest25	72	26	5	2
+Priest	Priest26	61	26	3	1
+Priest	Priest27	63	26	5	2
+Priest	Priest28	67	25	7	2
+Priest	Priest29	70	27	1	3
+Priest	Priest30	67	27	9	2
+Priest	Priest31	69	26	9	0
+Priest	Priest32	61	29	2	2

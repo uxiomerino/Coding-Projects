@@ -1,0 +1,100 @@
+Warrior	Warrior0	135	43	8	1	8
+Warrior	Warrior1	147	41	4	2	4
+Warrior	Warrior2	118	43	7	4	1
+Warrior	Warrior3	149	35	10	3	2
+Warrior	Warrior4	110	38	6	4	4
+Warrior	Warrior5	124	37	2	3	7
+Warrior	Warrior6	120	46	6	5	10
+Warrior	Warrior7	149	34	4	2	9
+Warrior	Warrior8	113	38	3	3	8
+Warrior	Warrior9	116	42	7	1	8
+Warrior	Warrior10	124	43	14	4	9
+Warrior	Warrior11	139	48	13	2	6
+Warrior	Warrior12	110	39	4	1	8
+Warrior	Warrior13	104	50	3	4	4
+Warrior	Warrior14	136	35	1	5	0
+Warrior	Warrior15	145	32	13	1	5
+Warrior	Warrior16	150	40	13	1	10
+Warrior	Warrior17	134	38	9	3	0
+Warrior	Warrior18	128	35	14	3	6
+Warrior	Warrior19	115	49	13	1	3
+Warrior	Warrior20	134	42	11	1	9
+Warrior	Warrior21	141	36	12	1	8
+Warrior	Warrior22	137	48	6	2	4
+Warrior	Warrior23	150	39	7	1	7
+Warrior	Warrior24	118	46	5	5	9
+Mage	Mage0	81	100	7	2
+Mage	Mage1	103	104	2	1
+Mage	Mage2	104	112	9	0
+Mage	Mage3	98	101	10	1
+Mage	Mage4	115	104	8	1
+Mage	Mage5	127	119	7	2
+Mage	Mage6	104	115	3	0
+Mage	Mage7	81	103	9	3
+Mage	Mage8	104	98	8	4
+Mage	Mage9	129	98	10	0
+Mage	Mage10	89	97	7	3
+Mage	Mage11	130	94	4	0
+Mage	Mage12	111	107	6	1
+Mage	Mage13	89	112	7	4
+Mage	Mage14	115	90	7	0
+Mage	Mage15	97	97	6	4
+Mage	Mage16	106	97	4	3
+Mage	Mage17	84	99	9	2
+Mage	Mage18	96	109	5	3
+Mage	Mage19	110	118	10	3
+Mage	Mage20	125	112	7	4
+Mage	Mage21	99	113	9	3
+Mage	Mage22	83	92	5	4
+Mage	Mage23	113	120	3	3
+Mage	Mage24	112	109	10	1
+Priest	Priest0	67	30	3	3
+Priest	Priest1	70	25	4	3
+Priest	Priest2	71	21	10	3
+Priest	Priest3	70	25	7	3
+Priest	Priest4	69	29	10	2
+Priest	Priest5	72	24	3	3
+Priest	Priest6	65	20	2	3
+Priest	Priest7	61	26	10	2
+Priest	Priest8	64	21	2	3
+Priest	Priest9	60	28	4	2
+Priest	Priest10	71	22	8	3
+Priest	Priest11	72	22	10	1
+Priest	Priest12	73	20	4	2
+Priest	Priest13	63	23	4	0
+Priest	Priest14	69	29	6	1
+Priest	Priest15	75	30	10	2
+Priest	Priest16	62	28	8	3
+Priest	Priest17	64	22	7	4
+Priest	Priest18	73	29	9	1
+Priest	Priest19	76	21	6	4
+Priest	Priest20	73	23	10	0
+Priest	Priest21	71	26	8	2
+Priest	Priest22	65	30	4	4
+Priest	Priest23	60	26	4	2
+Priest	Priest24	76	27	6	1
+Chaman	Chaman0	119	40	2	4	2
+Chaman	Chaman1	129	21	2	5	3
+Chaman	Chaman2	124	24	10	4	3
+Chaman	Chaman3	102	36	9	1	3
+Chaman	Chaman4	100	28	10	1	1
+Chaman	Chaman5	103	36	5	2	0
+Chaman	Chaman6	120	24	5	5	1
+Chaman	Chaman7	126	37	10	1	3
+Chaman	Chaman8	92	25	6	5	0
+Chaman	Chaman9	122	30	2	4	1
+Chaman	Chaman10	116	34	3	2	2
+Chaman	Chaman11	116	24	2	5	3
+Chaman	Chaman12	114	22	2	5	4
+Chaman	Chaman13	97	24	5	1	2
+Chaman	Chaman14	118	40	8	1	3
+Chaman	Chaman15	101	39	1	4	2
+Chaman	Chaman16	114	23	2	2	0
+Chaman	Chaman17	127	35	5	2	0
+Chaman	Chaman18	112	23	7	3	0
+Chaman	Chaman19	119	35	1	3	1
+Chaman	Chaman20	108	29	7	1	2
+Chaman	Chaman21	92	40	6	2	0
+Chaman	Chaman22	109	33	6	3	3
+Chaman	Chaman23	129	31	8	2	1
+Chaman	Chaman24	104	24	3	3	0
